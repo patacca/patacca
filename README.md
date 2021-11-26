@@ -28,7 +28,7 @@ I am passionate about hacking and cybersecurity, I like CTF and competitions in 
 - 👯 Contact me if you want. I will be more than happy to speak with you
 - 📫 How to reach me: `patacca@autistici.org`
 - ⚡ RingZer0 profile [patacca](https://ringzer0ctf.com/profile/36879/patacca)
-- 👨‍🎓 Check my profile at [pluralsight](https://app.pluralsight.com/profile/riccardo-mori-1f)
+<!-- It is not showing the badges and stuffs - 👨‍🎓 Check my profile at [pluralsight](https://app.pluralsight.com/profile/riccardo-mori-1f) -->
 
 <!--
 **patacca/patacca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
